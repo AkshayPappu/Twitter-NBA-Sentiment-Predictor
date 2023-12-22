@@ -27,7 +27,8 @@ Usage:
 
 1. Clone the repository.
 2. Install the required dependencies.
-3. Run the provided scripts to collect data, train the model, and make predictions (make sure to use your own twitter bearer token).
+3. Run the provided scripts to collect data, load the model, and make predictions (make sure to use your own twitter bearer token).
+4. *** Flask server must be running in order to access tweets ***
 
 ## Contributions:
 Contributions from the community are welcome! Feel free to fork the repository, make enhancements, and submit pull requests.
